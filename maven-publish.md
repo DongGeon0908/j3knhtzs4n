@@ -1,2 +1,3 @@
 - https://docs.github.com/ko/actions/publishing-packages/publishing-java-packages-with-gradle
 - https://central.sonatype.org/
+- https://central.sonatype.org/#where-did-issuessonatypeorg-go
